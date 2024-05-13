@@ -29,27 +29,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <h2>Deployment and Configuration Steps</h2>
+Create Resource Group for Active Directory
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/7b200155-31dd-4709-8167-ec4e5274a397)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Create a Domain Virtual Machine (Windows Server)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/c4cf1bb8-6770-48c7-83bf-a9941a0bc414)
+
+
+
+
+Create the Client Virtual Machine (Windows 10)
+
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/102fe072-4bed-463c-8f99-8ec654bfb6d1)
+
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/7554fd50-e5f4-42bb-b7f5-db669d05c1eb)
+
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/bcb96f16-b19a-42a1-a4b4-0b6dba194c1c)
+
+Install Active Directory on Domain Server
+
