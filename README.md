@@ -50,3 +50,11 @@ Create the Client Virtual Machine (Windows 10)
 
 Install Active Directory on Domain Server
 
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/301b709c-ea2e-4055-a98c-99517564a3f5)
+
+  -Restart and then log back into Dc-1 as user: mydomain.com\(username)
+
+  ![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/1974c486-eb5c-49ea-9505-522fc87366ed)
+
+
+
