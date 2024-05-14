@@ -54,7 +54,8 @@ Install Active Directory on Domain Server
 
   -Restart and then log back into Dc-1 as user: mydomain.com\(username)
 
-  ![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/1974c486-eb5c-49ea-9505-522fc87366ed)
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/1974c486-eb5c-49ea-9505-522fc87366ed)
 
-
+Create Organizational Units and Users in Active Directory
+![image](https://github.com/Traviskthomas/configure-ad/assets/166442537/21a39704-0004-468c-be25-cef68e06e4ff)
 
